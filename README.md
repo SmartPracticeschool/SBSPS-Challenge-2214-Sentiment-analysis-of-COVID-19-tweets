@@ -34,11 +34,11 @@ The tweets for "covid" are retrieved and the sentiment analysis is performed.
 Similarly any keyword can be entered in the search bar provided at the top left corner of the screen and the tweets corresponding to that topic is retrieved and the sentiment of the public about that particular topic is then displayed as shown above.
 
 **Quick Start**:
-Step 1: Clone the Repo.
-Step 2: Requirements.txt needs to be installed using pip install -r requirements.txt
-Step 3: Fill in your Twitter App credentials to twitter_stream.py . Go to apps.twitter.com to set that up if you need to.
-Step 4: To construct a database, run twitter_stream.py .
-Step 5: You can run this application with dev_server.py script if you’re using this locally. If you wish to deploy this to the webserver, do checkout my video on deploying Dash application tutorial.
+-Step 1: Clone the Repo.
+-Step 2: Requirements.txt needs to be installed using pip install -r requirements.txt
+-Step 3: Fill in your Twitter App credentials to twitter_stream.py . Go to apps.twitter.com to set that up if you need to.
+-Step 4: To construct a database, run twitter_stream.py .
+-Step 5: You can run this application with dev_server.py script if you’re using this locally. If you wish to deploy this to the webserver, do checkout my video on deploying Dash application tutorial.
 (you might need the current version of sqLite.)
 
 [YOUTUBE VIDEO](https://www.youtube.com/watch?v=A4etA_z-_Ew&feature=youtu.be) 
