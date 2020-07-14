@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Covid19-sentimental-analysis-Catalyst
+   random_route: true
+   memory: 128M
