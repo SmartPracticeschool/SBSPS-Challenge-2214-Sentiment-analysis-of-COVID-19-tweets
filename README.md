@@ -1,4 +1,8 @@
 # SBSPS-Challenge-2214-Sentiment-analysis-of-COVID-19-tweets
+**TEAM : CATALYST**
+  
+  MEMBERS: UNNIMAYA M, ANANYA R, MANASA RADHAKRISHNAN
+
 **Problem Statement**:
 
 **Title**: 
