@@ -23,6 +23,7 @@ On clicking each part of the graph, more details about the tweets will be shown.
 Upon giving a keyword, we can majorly obtain two graphs. The graphs being:
 - Live Sentiment.
 - Long Term Sentiment.
+
 Live Sentiment graph shows the sentiment or the feedback of the general public in a live manner while Long Term Sentiment graph shows people's feedback cumulatively. The feedback for a longer period of time is added up and shown in this case. This allows the user to see the difference in actual sentiment of the public over a period of time.
 The tweets corresponding to the keyword "corona" are obtained and sentimental analysis is performed and the output is shown in the form of a pie chart. The chart has 2 side : positive and negative depicted by the different colored sides of the chart. 
 Each tweet is given a sentiment point with which the percentage of the pie chart
